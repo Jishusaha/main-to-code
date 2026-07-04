@@ -39,5 +39,14 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jishusaha/main-to-code/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Jishusaha/main-to-code/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jishusaha/main-to-code/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jishusaha/main-to-code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
