@@ -27,6 +27,7 @@
 | [0014-longest-common-prefix](https://github.com/Jishusaha/main-to-code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jishusaha/main-to-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Jishusaha/main-to-code/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jishusaha/main-to-code/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Jishusaha/main-to-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Jishusaha/main-to-code/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
