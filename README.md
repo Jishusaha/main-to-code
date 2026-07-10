@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jishusaha/main-to-code/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Jishusaha/main-to-code/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jishusaha/main-to-code/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Jishusaha/main-to-code/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
 | ------- |
