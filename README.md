@@ -56,6 +56,7 @@
 | [0014-longest-common-prefix](https://github.com/Jishusaha/main-to-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jishusaha/main-to-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jishusaha/main-to-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Jishusaha/main-to-code/tree/master/0058-length-of-last-word) |
 ## Two Pointers
 |  |
 | ------- |
