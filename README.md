@@ -16,6 +16,7 @@
 | [0009-palindrome-number](https://github.com/Jishusaha/main-to-code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Jishusaha/main-to-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jishusaha/main-to-code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Jishusaha/main-to-code/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jishusaha/main-to-code/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Jishusaha/main-to-code/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
