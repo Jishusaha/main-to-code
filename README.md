@@ -33,6 +33,7 @@
 | [0015-3sum](https://github.com/Jishusaha/main-to-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jishusaha/main-to-code/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jishusaha/main-to-code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Jishusaha/main-to-code/tree/master/0066-plus-one) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jishusaha/main-to-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jishusaha/main-to-code/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
