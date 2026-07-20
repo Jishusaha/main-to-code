@@ -17,6 +17,7 @@
 | [0012-integer-to-roman](https://github.com/Jishusaha/main-to-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jishusaha/main-to-code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Jishusaha/main-to-code/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Jishusaha/main-to-code/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0027-remove-element](https://github.com/Jishusaha/main-to-code/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jishusaha/main-to-code/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Jishusaha/main-to-code/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
