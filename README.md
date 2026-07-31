@@ -23,6 +23,7 @@
 | [0066-plus-one](https://github.com/Jishusaha/main-to-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Jishusaha/main-to-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Jishusaha/main-to-code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Jishusaha/main-to-code/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jishusaha/main-to-code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Jishusaha/main-to-code/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Jishusaha/main-to-code/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jishusaha/main-to-code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Jishusaha/main-to-code/tree/master/0039-combination-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jishusaha/main-to-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
