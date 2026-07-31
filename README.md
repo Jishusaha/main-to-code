@@ -46,6 +46,7 @@
 | [0035-search-insert-position](https://github.com/Jishusaha/main-to-code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Jishusaha/main-to-code/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Jishusaha/main-to-code/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0027-remove-element](https://github.com/Jishusaha/main-to-code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jishusaha/main-to-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Jishusaha/main-to-code/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jishusaha/main-to-code/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Jishusaha/main-to-code/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
