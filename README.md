@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jishusaha/main-to-code/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jishusaha/main-to-code/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,4 +135,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jishusaha/main-to-code/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jishusaha/main-to-code/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jishusaha/main-to-code/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jishusaha/main-to-code/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
